@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I still had to analyze most of the text in the diff to figure out what was wrong. Still, it was much better than going through all the code looking for differences.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Access to my history of versions would let me know what worked or what didn't work, recovering older versions without having to retype a lot of code. Also, it would make any changes safe as I can go back any time. An automatic process would just make everything easier and safer.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros:
+    you can decide the best moment for a commit, making it easier to understand the differences;
+    more guarantee that a commit will be a working version
+    Cons:
+    you risk missing commits at a moment that would save you work, as you would have in automatic commits
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I guess it has to do with the philosofy of the systems: while Git is programm oriented, where it's more frequent to have linked files and therefore is usefull to version control all of them in one go, Google Docs is document oriented, so there is less need for linked documents.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log gives you the history of commits and you can look for the descriptions of any particular change commit
+    git diff shows you the changes between commits, how many lines where deleted, how many lines where added
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It definately makes me more confident as I can easily go back to a workable version and find the error. This really adds to the programmers confidence.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try changing linked file versions, comparing and going back to a previous version.
