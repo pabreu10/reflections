@@ -18,6 +18,7 @@ The diagrams clearly show the branches, parents and reachable/unreachable commit
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Mergin two branches combines the code from both branches, keeping a link to the commits from each branch. We get the full code with all the code changes in case we need to track them. the representation helps us vizualize what each branch was developing or in other words, each development path: from split (branch) to merge.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
