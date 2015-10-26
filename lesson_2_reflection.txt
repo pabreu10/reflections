@@ -14,6 +14,7 @@ organized? How would branches help?
 If I want to try something out but keep the main code intact, like experimenting for example, a branch would help. Another example would be if I want to keep developing new features, but also want to keep a functional version for demos, or change language.
 
 How do the diagrams help you visualize the branch structure?
+The diagrams clearly show the branches, parents and reachable/unreachable commits. With the diagrams, you see the flow of development keeping it on track.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
