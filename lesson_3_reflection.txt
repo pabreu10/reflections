@@ -23,7 +23,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    With a Shared file system, and emails.
+    Easier: people are used to working with file systems, thus avoiding the learning curve of Git and GitHub
+    Harder: way harder to manage, colaborate and control versions.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
