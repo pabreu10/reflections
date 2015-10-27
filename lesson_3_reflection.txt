@@ -30,4 +30,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When I need to work on changes created by someone lese that will eventually be added to master. Working on the branch keeps master as is, the a merge will bring it all together. If I worked on master, then my master would be different from my teamate's master and would make it harder to join the changes.
